@@ -23,5 +23,4 @@ public class Square {
 		this.j = j;
 	}
 
-	public 
 }
